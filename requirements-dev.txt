@@ -1,0 +1,6 @@
+coverage
+pep8
+pyflakes
+pytest
+pytest-cov
+twine
